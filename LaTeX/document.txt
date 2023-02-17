@@ -1,0 +1,5 @@
+Texstudio --- source code (Latex is just like programming language)
+
+TeXLive ---- compiler   (convert source code into an output file (pdf) )
+
+
